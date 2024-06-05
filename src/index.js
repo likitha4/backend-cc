@@ -1,5 +1,6 @@
 // import mongoose from "mongoose";
-// import { DB_NAME } from "./constants";
+// import { DB_NAME } from "./constants.js"; 
+// the commented code is another way of connecting db
 
 // import express from "express"
 import connectDB from "./db/index.js";
